@@ -8,9 +8,9 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <div class="flex h-screen">
+    <div class="flex w-screen h-screen">
         <div class="m-auto">
-          <img src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381">
+          <img class="w-1/2 h-1/2" src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381">
         </div>
       </div>
 </body>
