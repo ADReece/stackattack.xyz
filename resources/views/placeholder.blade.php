@@ -10,7 +10,9 @@
 <body>
     <div class="flex w-screen h-screen">
         <div class="m-auto">
-          <img class="h-1/2" src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381">
+            </div class="border-solid border-orange">
+                <img class="m-1 w-200" src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381">
+            </div>
         </div>
       </div>
 </body>
