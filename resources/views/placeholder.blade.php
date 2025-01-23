@@ -9,10 +9,12 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <div class="flex items-center justify-center w-screen h-screen">
-        </div class="p-5 m-auto border-solid rounded-sm border-3 border-orange">
-            <img class="max-w-50 w-sm" src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381">
-        </div>
+    <div class="flex items-center justify-center h-screen">
+        <img 
+          src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381"
+          alt="BONK" 
+          class="object-cover w-1/4 border-4 border-orange-500 h-1/4" 
+        />
       </div>
 </body>
 </html>
