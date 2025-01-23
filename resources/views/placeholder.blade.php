@@ -8,13 +8,13 @@
     <link rel="icon" type="image/x-icon" href="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png">
     @vite('resources/css/app.css')
 </head>
-<body>
+<body class="p-0 m-0">
     <div class="flex items-center justify-center h-screen">
-        <div class="w-1/4 p-2 border-2 border-orange-500">
+        <div class="w-1/4 p-1 border-1 border-o2range-500">
             <img 
             src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381"
             alt="BONK" 
-            class="object-cover" 
+            class="object-cover w-1/4" 
           />
         </div>
       </div>
