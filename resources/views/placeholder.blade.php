@@ -13,7 +13,7 @@
         <img 
           src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381"
           alt="BONK" 
-          class="object-cover w-1/4 border-4 border-orange-500 h-1/4" 
+          class="object-cover w-1/4 border-4 border-orange-500" 
         />
       </div>
 </body>
