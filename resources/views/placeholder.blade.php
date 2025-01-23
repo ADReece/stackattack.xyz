@@ -10,11 +10,11 @@
 </head>
 <body class="p-0 m-0">
     <div class="flex items-center justify-center w-screen h-screen">
-        <div class="w-auto p-1 border-2 border-orange-500">
+        <div class="border-2 border-orange-500">
             <img 
             src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381"
             alt="BONK" 
-            class="object-cover w-1/4 m-auto" 
+            class="object-cover w-64 m-1 m-auto" 
           />
         </div>
       </div>
