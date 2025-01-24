@@ -10,7 +10,7 @@
 </head>
 <body class="p-0 m-0 bg-white dark:bg-gray-800">
     <div class="flex items-center justify-center w-screen h-screen">
-        <div class="p-2 border-2 border-orange-500">
+        <div class="p-1 border-orange-500 border-solid border-1">
             <img 
             src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381"
             alt="BONK" 
