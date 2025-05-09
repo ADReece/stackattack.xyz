@@ -18,6 +18,6 @@
           />
         </div>
       </div>
-      @vite('resources/js/bonk.js')
+      @vite('resources/js/stackattack.js')
 </body>
 </html>
