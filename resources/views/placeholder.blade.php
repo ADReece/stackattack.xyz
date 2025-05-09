@@ -10,21 +10,13 @@
 </head>
 <body class="p-0 m-0 bg-white dark:bg-gray-800">
     <div class="flex items-center justify-center w-screen h-screen">
-        <div class="p-1 border border-orange-500">
-            <img onclick="play()"
+        <div class="p-1 border border-orange-500" id="bonk">
+            <img
             src="https://wiki.leagueoflegends.com/en-us/images/Heartsteel_item.png?be381"
             alt="BONK" 
             class="object-cover w-64 m-auto" 
           />
-          <audio id="audio" src="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"></audio>
         </div>
       </div>
-      <script>
-        const audio = new Audio({{asset('sounds/heartsteel.mp3')}});
-
-        function play() {
-          audio.play();
-        }
-      </script>
 </body>
 </html>
