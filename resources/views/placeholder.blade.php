@@ -18,5 +18,6 @@
           />
         </div>
       </div>
+      @vite('resources/js/bonk.js')
 </body>
 </html>
