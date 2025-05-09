@@ -20,7 +20,7 @@
         </div>
       </div>
       <script>
-        const audio = new Audio({{resource_path('sounds/heartsteel.mp3')}});
+        const audio = new Audio({{asset('sounds/heartsteel.mp3')}});
 
         function play() {
           audio.play();
