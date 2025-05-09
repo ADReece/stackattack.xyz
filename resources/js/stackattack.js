@@ -9,5 +9,5 @@ const sfx = [
 ]
 document.getElementById('bonk').addEventListener('click', () => {
     var sound = Math.floor(Math.random() * sfx.length);
-    audio.play(sound);
+    audio.play(sfx[sound]);
 });
